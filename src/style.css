@@ -1,0 +1,37 @@
+     body { background-color: #2574b0; }
+
+    .container{
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      height: auto;
+      display: block;
+  }
+.nineBoxes h1 {
+  display: block;
+  width: 100%;
+  text-align: center;
+}
+  .nineBoxes {
+  background-color: #fff;
+  border-radius: 4px;
+  display: flex;
+  flex-wrap: wrap;
+  padding: 0.8vw;
+  width: 380px;
+  
+  justify-content: center;
+  gap: 0.5vw;
+   
+}
+
+ .drum-pad {
+    background-color: #ffd700;
+    width: 9vw;
+    height: 15vh;
+    box-shadow: 5.5px 1.5px 5px gray;
+    border-radius: 4px;
+    margin: 5px;
+  }
+
+  
